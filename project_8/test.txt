@@ -1,0 +1,2 @@
+python3 p8_group_manager.py < inputs.txt
+python3 p8_group_manager.py < inputs1.txt
