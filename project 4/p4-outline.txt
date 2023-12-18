@@ -1,0 +1,8 @@
+code the is_leap_year function
+get an integer input for the year through the input function and passing it to a variable(year)
+validate year
+get an integer input for the day of the year through the inout function and passing it to a variable(day)
+validate day
+Initialize variables to hold the month and the days and loop through the months and the last days of them
+Initialize a variable to hold the previous month's last day
+Print the month, day of the month (day - first day of the month) and the year
